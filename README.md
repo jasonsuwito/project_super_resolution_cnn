@@ -4,4 +4,3 @@ Image upscaling and restoration have experienced several advancements over the p
 
 Our analysis can be found in `swinir_cnn.ipynb` and `swinir_pretrained_resnet.ipynb`.
 
-Our methodology and findings can be found in report. 
